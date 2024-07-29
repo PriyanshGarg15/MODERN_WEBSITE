@@ -1,21 +1,68 @@
-# Modern Website
-Developed a visually appealing and contemporary website, blending style and
-functionality to meet modern design standards.
+# CodeSchool by Priyansh Garg
 
-# Project Overview
-Features:
-· Responsive design for various screen sizes.
-. Navigation bar with links to different sections.
-· Dynamic hero section with a compelling message.
-· Side navigation menu with a rotating gradient effect.
-' Aesthetic color scheme and animation effects for an engaging user experience.
+(https://react-major-project-1-codeschool-by-gla.vercel.app/)
 
-# Technologies Used:
-. HTML and CSS for structure and styling.
-. Font Awesome for icons.
-. Background images for a visually striking layout.
+Welcome to CodeSchool, a digital learning platform built with React. This project showcases various web development techniques and tools.
 
-# Screenshot:
+## Features
 
-https://github.com/PriyanshGarg15/MODERN_WEBSITE/assets/116974262/8933cb3f-5cda-414a-ab2f-dd18d6bce2c2
+- CSS Animations
+- Image Slider
+- Client-side Routing
+- Tailwind CSS for Styling
+- Interactive Forms
+- Icon Integration
+
+## Technologies Used
+
+- React
+- React Router
+- Tailwind CSS
+- Swiper
+- animate.css
+- remixicon
+
+## Project Structure
+
+- `node_modules`
+- `public`
+  - `images`
+  - `teachers`
+  - `favicon.ico`
+  - `index.html`
+  - `logo192.png`
+  - `logo512.png`
+  - `manifest.json`
+  - `robots.txt`
+- `src`
+  - `components`
+    - `Nav`
+    - `addToList.jsx`
+    - `ContactUs.jsx`
+    - `Footer.jsx`
+    - `Holidays.jsx`
+    - `Home.jsx`
+    - `NotFound.jsx`
+    - `Teachers.jsx`
+  - `App.css`
+  - `App.js`
+  - `App.test.js`
+  - `index.css`
+  - `index.js`
+  - `logo.svg`
+  - `reportWebVitals.js`
+  - `setupTests.js`
+- `package-lock.json`
+- `package.json`
+
+## Getting Started
+
+### Prerequisites
+
+- Node.js
+- npm (Node package manager)
+- React
+
+
+https://github.com/user-attachments/assets/3ccdbeaa-e093-4974-86e2-cb07a5f0eab2
 
